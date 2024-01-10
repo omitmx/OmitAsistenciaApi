@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WsOmitAsistencia</name>
+    </assembly>
+    <members>
+        <member name="M:WsOmitAsistencia.Controllers.SesionesController.#ctor(WsOmitAsistencia.Models.IUsuServicio,WsOmitAsistencia.Services.Mongo.cOmitLogServicio)">
+            <summary>
+            
+            </summary>
+            <param name="usuServicio"></param>
+            <param name="logError"></param>
+        </member>
+        <member name="M:WsOmitAsistencia.Controllers.SesionesController.login(WsOmitAsistencia.Models.vmAccess)">
+            <summary>
+            Inicio de sesion de usuario.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
